@@ -3,5 +3,6 @@
 <url> <loc>https://smartbtc.de/oh-rly/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://smartbtc.de/draft-post/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://smartbtc.de/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://smartbtc.de/success/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://smartbtc.de/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
